@@ -1,7 +1,7 @@
 # course-v3
 The 3rd edition of course.fast.ai - coming in 2019
 
-This fork contains dockerfile and instruction for it's usage.
+## This fork contains dockerfile and instruction for it's usage.
 
 What this file does:
 
